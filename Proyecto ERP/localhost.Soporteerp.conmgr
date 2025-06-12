@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Soporteerp"
+  DTS:DTSID="{E5863CDB-14C2-44D0-ACF2-A8CC088F6094}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Soporteerp;Integrated Security=True;Encrypt=False;TrustServerCertificate=True;Application Name=SSIS-{E5863CDB-14C2-44D0-ACF2-A8CC088F6094}localhost.Soporteerp;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
